@@ -1,7 +1,4 @@
 class  DockingStation
-def release_bike
-docking_station = DockingStation.new
-end
-
-
+  def release_bike
+  end
 end
