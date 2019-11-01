@@ -1,3 +1,4 @@
-# class Bike
-#
-# end
+class Bike
+  def working?
+  end
+end
